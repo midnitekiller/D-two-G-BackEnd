@@ -21,5 +21,3 @@ https://www.vagrantup.com/docs/index.html
 
 
 Copyright @ https://www.direct2guests.com
-
-liefjill@direct2guests.com
