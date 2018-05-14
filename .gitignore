@@ -1,1 +1,5 @@
-./data/*
+# Data Files
+/data/admin
+
+# Vagrant configs
+.vagrant
