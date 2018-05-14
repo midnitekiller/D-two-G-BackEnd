@@ -18,3 +18,8 @@ Linux:			https://www.virtualbox.org/wiki/Linux_Downloads
 ## Vagrant Commands:
 
 https://www.vagrantup.com/docs/index.html
+
+
+Copyright @ https://www.direct2guests.com
+
+liefjill@direct2guests.com
