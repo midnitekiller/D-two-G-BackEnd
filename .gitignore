@@ -1,6 +1,7 @@
 # Data Files
-!data/
-data/admin
+!/data/
+/data/**
+/data/admin
 
 # Vagrant configs
 .vagrant
